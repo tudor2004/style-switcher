@@ -1,0 +1,16 @@
+{
+  "name": "style-switcher",
+  "version": "0.0.1",
+  "authors": [
+    "Tudor-Dan Ravoiu <tudor2004@yahoo.com>"
+  ],
+  "main": "style.switcher.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
